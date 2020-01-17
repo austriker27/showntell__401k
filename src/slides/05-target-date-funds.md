@@ -1,4 +1,4 @@
-# Target Date Funds
+# Target Date Funds 🚀
 
 ## Pros
 - Autopilot
@@ -8,6 +8,7 @@
 ## Cons
 - More expensive
 - Not flexible
+- Less control
 
 --- 
 
