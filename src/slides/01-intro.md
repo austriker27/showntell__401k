@@ -1,25 +1,18 @@
-# Gatsby Deck
+# Iron Condors, 401k, and compound interest
 
-Create presentations using Gatsby & React.
-
----
-
-> Inscrutable icons litter the face of the devices even though the research
-> community has long demonstrated that people cannot remember the meaning of
-> more than a small number of icons […] Who can remember what each icon
-> means? Not me.
-> <cite>Don Norman</cite>
+The useful things you wished you learned about 401ks, investing, and the stock market (aka not including Iron Condors)
 
 ---
 
-# 🤫
+> “Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.”  -Albert Einstein
+
+> "Compound interest is the most powerful force in the universe." -Albert Einstein
+
+> " Compound interest is the greatest mathematical discovery of all time." -Albert Einstein
+> <cite>David Lindahl</cite>
 
 ---
 
-## Slides are written in Markdown!
+## Lets talk about money
 
-Here's the source of the first slide:
-
-    # Gatsby Deck
-
-    Create presentations using Gatsby & React.
+![Money](https://media.giphy.com/media/LCdPNT81vlv3y/giphy.gif)

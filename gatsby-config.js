@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    name: `Fabian Schultz`,
-    title: `Gatsby Deck`,
-    date: `July 30, 2018`,
+    name: `David Lindahl`,
+    title: `The Iron Condor Info Sesh`,
+    date: `2020 Jan 17`,
   },
   plugins: [
     `gatsby-plugin-layout`,
