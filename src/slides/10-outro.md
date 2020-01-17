@@ -1,6 +1,10 @@
+# In Summary
 
+Start saving right now. Even if its $50 a month.
 
-Thanks for listening, reading, or napping. Questions? 
+---
+
+Thanks for listening, reading, and/or napping. Questions? 
 
 ![Sleeping](https://media1.tenor.com/images/f89c189082d675ca5d27eb5028969beb/tenor.gif)
 

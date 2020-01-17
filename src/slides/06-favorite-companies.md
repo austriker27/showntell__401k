@@ -1,4 +1,6 @@
-# Favorite investing companies
+# Favorite financial companies
+
+Who I use for investing, retirement, and savings
 
 --- 
 
