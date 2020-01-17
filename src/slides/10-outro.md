@@ -10,4 +10,8 @@ Thanks for listening, reading, and/or napping. Questions?
 
 ---
 
-# And now a guest appearance by visiting Doctor of Macroeconomics, Brian Cama, on "Environment and Resource Policies for the World Economy"
+### And now a guest appearance by visiting Doctor of Macroeconomics, Brian Cama, on "Environment and Resource Policies for the World Economy"
+
+-- 
+
+## Okay, actually El Fin.

@@ -62,7 +62,7 @@ A recent survey from MoneyRates.com finds that people who start saving for retir
 - [Fidelity Retirement Score](https://www.fidelity.com/calculators-tools/fidelity-retirement-score-tool)
    - fastest and dirty - not gated
   
-- [SmartAsset's Retirement Calculator](https://smartasset.com/retirement/retirement-calculator#UQfSwQNwth) )
+- [SmartAsset's Retirement Calculator](https://smartasset.com/retirement/retirement-calculator#UQfSwQNwth)
    - fast and not gated
 
 - [Personal Capital](https://www.personalcapital.com/financial-software/retirement-planner)

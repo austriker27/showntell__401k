@@ -20,6 +20,8 @@ Who I use for investing, retirement, and savings
 - $500 minimum per account
 - [Get $5k managed for free](https://wlth.fr/291qhrr)
 
+---
+
 ## Personal Capital
 ![Personal Capital](https://www.personalcapital.com/images/rebrand/logos/primary-og-image.jpg)
 - Aggregated and advanced portfolio tracking (like mint but for investments)
