@@ -54,13 +54,13 @@ A recent survey from MoneyRates.com finds that people who start saving for retir
 
 - Average retired American spends $61,000 per household on food, housing, clothing, transporation, health care, etc
 - $5,100 a month
-- You will probably need over $1 million by retirement
+- $1 million 
 
  --- 
 
  ## Retirement calculators
 - [Fidelity Retirement Score](https://www.fidelity.com/calculators-tools/fidelity-retirement-score-tool)
-   - fastest and dirty - not gated
+   - _quick and dirty_ and not gated
   
 - [SmartAsset's Retirement Calculator](https://smartasset.com/retirement/retirement-calculator#UQfSwQNwth)
    - fast and not gated
