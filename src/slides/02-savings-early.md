@@ -1,4 +1,4 @@
-# Start early
+# Most important thing ever: start early
 
 Death by graphs:
 

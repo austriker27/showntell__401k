@@ -23,10 +23,12 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
+              wrapperStyle: fluidResult =>
+                `width:${fluidResult.presentationWidth / 2}px;`,
               // It's important to specify the maxWidth (in pixels) of
               // the content container as this plugin uses this as the
               // base for generating different widths of each image.
-              maxWidth: 1920,
+              maxWidth: 1440,
             },
           },
         ],

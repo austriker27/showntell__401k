@@ -16,7 +16,6 @@ The useful things you wished you learned about 401ks, investing, and the stock m
 
 > "Compound interest is the most powerful force in the universe." -Albert Einstein
 
-> " Compound interest is the greatest mathematical discovery of all time." -Albert Einstein
 > <cite>David Lindahl</cite>
 
 ---

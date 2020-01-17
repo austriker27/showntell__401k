@@ -1,8 +1,8 @@
 :root {
-  --bg: #fdfdfd;
+  --bg: #F1F5F9;
   --meta: #888;
-  --accent: #3178cd;
-  --text: black;
+  --accent: #FF269E;
+  --text: #3C4858;
   --base: 1.5rem;
 }
 
@@ -43,11 +43,13 @@ html {
 
   width: 100vw;
   height: 100vh;
-  padding: 1rem;
+  padding: 3rem;
 
   text-align: center;
 
   -webkit-overflow-scrolling: touch;
+
+
 }
 
 #slide ul {

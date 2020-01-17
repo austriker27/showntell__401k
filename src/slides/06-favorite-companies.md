@@ -21,9 +21,9 @@ Who I use for investing, retirement, and savings
 - [Get $5k managed for free](https://wlth.fr/291qhrr)
 
 ## Personal Capital
-![Fidelity](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.uyEpPYHTxGDA4yERWmu3lQHaFj%26pid%3DApi&f=1)
-- Free but spammy
-- Aggregated and advanced portfolio tracking
+![Personal Capital](https://www.personalcapital.com/images/rebrand/logos/primary-og-image.jpg)
+- Aggregated and advanced portfolio tracking (like mint but for investments)
+- Free but spammy upsells a lot
 - [$20 for siging up](https://share.personalcapital.com/x/apvOiw)
 
 ---
